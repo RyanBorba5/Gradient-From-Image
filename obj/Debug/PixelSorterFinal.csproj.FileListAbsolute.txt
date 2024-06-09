@@ -1,0 +1,7 @@
+C:\Users\Hungr\source\repos\PixelSorterFinal\bin\Debug\PixelSorterFinal.exe.config
+C:\Users\Hungr\source\repos\PixelSorterFinal\bin\Debug\PixelSorterFinal.exe
+C:\Users\Hungr\source\repos\PixelSorterFinal\bin\Debug\PixelSorterFinal.pdb
+C:\Users\Hungr\source\repos\PixelSorterFinal\obj\Debug\PixelSorterFinal.csproj.AssemblyReference.cache
+C:\Users\Hungr\source\repos\PixelSorterFinal\obj\Debug\PixelSorterFinal.csproj.CoreCompileInputs.cache
+C:\Users\Hungr\source\repos\PixelSorterFinal\obj\Debug\PixelSorterFinal.exe
+C:\Users\Hungr\source\repos\PixelSorterFinal\obj\Debug\PixelSorterFinal.pdb
